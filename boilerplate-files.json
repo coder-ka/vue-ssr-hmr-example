@@ -1,0 +1,20 @@
+{
+  "files": [
+    "src/**/*",
+    "app.js",
+    "boilerplate-files.json",
+    "index.dev.js",
+    "index.js",
+    "package.json",
+    "package-lock.json",
+    "postcss.config.js",
+    "server-side-render.dev.js",
+    "server-side-render.js",
+    "tailwind.config.js",
+    "vue-ssr-server-bundle.json",
+    "webpack.config.build.js",
+    "webpack.config.client.js",
+    "webpack.config.js",
+    "webpack.config.server.js"
+  ]
+}
