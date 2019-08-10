@@ -1,5 +1,5 @@
 {
-  "name": "@coder-ka/vue-ssr-boilerplate",
+  "name": "@coder-ka/vue-ssr-hmr-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
