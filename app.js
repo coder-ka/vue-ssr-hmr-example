@@ -6,7 +6,7 @@ const { createRenderer } = require(process.env.NODE_ENV === "production"
   ? "./server-side-render"
   : "./server-side-render.dev");
 
-["/", "/items/*", "/stores"].forEach(url =>
+["/", "/examples"].forEach(url =>
   app.get(url, async (req, res) => {
     const context = { url: req.url };
 

@@ -14,7 +14,7 @@ export default {
     };
   },
   created() {
-    this.looking = this.$route.query.word;
+    this.word = this.$route.query.word;
   }
 };
 </script>
