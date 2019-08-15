@@ -1,8 +1,7 @@
 {
   "files": [
-    "src/**/*",
+    "src/**/*.*",
     "app.js",
-    "boilerplate-files.json",
     "index.dev.js",
     "index.js",
     "package.json",
